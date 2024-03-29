@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Virtual Hover Pen",
+        "description": "Successfully constructed a virtual hover pen using Python and OpenCV. Implemented real-time camera frame capture, color-based pen detection, and movement tracking. Users can engage in interactive drawing or interact with a digital environment through the virtual pen.",
+        "image" : "https://drive.google.com/uc?export=view&id=1C2wze-1cpwuFZGbnVYrPaaryE_FScxuQ",
+        
+        "skills": ["Python", "OpenCV", "NumPy"],
+        
+        "github": "https://github.com/sohil66/Hover-Pen"
+    },
+    {
+        "title": "News App",
+        "description": "Application where user can see the latest news all over the world. User can select the location, category as they want.",
+        "image" : "https://drive.google.com/uc?export=view&id=1tWe6kwLapuIbTg0HDpe2-D8ZUNoDr6Xc",
+        
+        "skills": ["React", "NodeJs", "styled-components", "Express", "REST API"],
+      
+        "github": "https://github.com/sohil66/news-app"
+    },
+    {
+        "title": "Chat Application",
+        "description": "A platform that enables users to instant message and connect with each other. Multiple users can connect. Shows the number of connected users.",
+        "image" : "https://drive.google.com/uc?export=view&id=1Q87VmdRZuN2hE1Lim5b1O3gaPc4TZDg6",
+        
+        "skills": ["JavaScript", "Node", "MongoDB", "Express","HTML", "CSS"],
+        
+        "github": "https://github.com/sohil66/Chat-app"
+    },
+    {
+        "title": "Weather App",
+        "description": "A user-friendly weather app providing real-time forecasts. Track current conditions, hourly and weekly predictions. Customizable settings for location, temperature units, and interactive visuals for an enhanced weather-checking experience.",
+        "image" : "https://drive.google.com/uc?export=view&id=15BQWiWAiR8fNDeEn_nFNrHoCZkKKoAZ_",
+        
+        "skills": ["React", "Express", "NodeJs", "REST API", "Bootstrap"],
+        
+        "github": "https://github.com/sohil66/Weather-app2"
+    }
+]

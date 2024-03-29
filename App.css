@@ -1,0 +1,52 @@
+.container {
+    width: 85%;
+    letter-spacing: .25em;
+    margin-inline: auto;
+    padding-block: 3.25em;
+    /* margin-bottom: 1em; */
+    color: white;
+}
+
+#light .container{
+    color: black;
+}
+
+#contact-me {
+    padding-block: 7em;
+}
+
+.App{
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+.bullet{
+    color: #76b687;
+    font-size: .6em;
+    margin-bottom: .15em;
+}
+
+ul{
+    list-style: none;
+}
+
+::-webkit-scrollbar{
+    width: .25em;
+}
+
+::-webkit-scrollbar-track{
+    background-color: transparent;
+    border-radius: 100vw;
+}
+
+::-webkit-scrollbar-thumb{
+    border-radius: 100vw;
+    background-color: #76b687;
+}
+
+@supports(scrollbar-color: red blue){
+    *{
+        scrollbar-color: #76b687 transparent;
+        scrollbar-width: thin;
+    }
+}
